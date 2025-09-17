@@ -3,8 +3,8 @@
 IDM Activation Script is a tool designed to activate Internet Download Manager (IDM) for free, allowing users to bypass trial period restrictions and enjoy the full version without purchasing a license.
 
 ### 📝 **Latest Verison**
-- Coporton IDM Activation Script 2.5.6
-- Support Internet Download Manager 6.42 Build 42
+- IDM Activation Script 3.0
+- Support Internet Download Manager 6.42 Build 43
 
 ## 💪 **Features**
 
@@ -15,21 +15,6 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 - 💻 Lightweight and fast.
 
 ## 🛠️ **Installation**
-
-### **Method 1 (Recommended)**
-1. **Open PowerShell**:
-   - Right-click the Start menu and select **Windows PowerShell** or **Windows Terminal**.
-   - If prompted by User Account Control (UAC), click **Yes** to allow PowerShell to run with administrative privileges.
-
-2. **Run the following command in PowerShell** to download and execute the activation script:
-
-   ```powershell
-   irm https://coporton.com/ias | iex
-   ```
-
-### **Method 2**
-1. **Download**: Obtain the latest version of the tool from the [releases page](https://github.com/Coporton/IDM-Activation-Script/releases).
-2. **Extract**: Unzip the downloaded file to a directory of your choice.
 
 ## 💻 **Usage**
 
@@ -52,7 +37,7 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 
 - **Administrative Privileges**: If the script does not prompt for administrative rights, ensure you are running it with the required permissions by right-clicking and selecting "Run as Administrator."
 - **File Paths**: Verify that the `data.bin`, `dataHlp.bin`, `Registry.bin`, `extensions.bin`, and `banner_art.txt` files are correctly placed in the `src` directory.
-- **Registered with a Fake Serial**: Don't worry! Use a trusted third-party uninstaller like IObit Uninstaller, and then use this script [IObit Uninstaller Activation Script](https://github.com/Coporton/IObit-Uninstaller-Activation-Script) to activate it and ensure all files, including registry entries, are removed.
+- **Registered with a Fake Serial**: Don't worry! Use a trusted third-party uninstaller like IObit Uninstaller, and then use this script IObit Uninstaller Activation Script to activate it and ensure all files, including registry entries, are removed.
 
 ## 📄 **BIN Files**
 
