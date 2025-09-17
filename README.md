@@ -16,6 +16,8 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 
 ## 🛠️ **Installation**
 
+Download from latest Release version
+
 ## 💻 **Usage**
 
 ### 1. Run the Script:
@@ -59,3 +61,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## ❓ **Contact**
 
 For questions or support, please open an issue on the GitHub repository.
+
